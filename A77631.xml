@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Brothers of the blade: answerable to the sisters of the scaberd. Or, A dialogue betweene two hot-spurres of the times, Serjeant Slice-man, alias Smell-smock of Coney-court in Chick-lane, and Corporall Dam-mee of Bell-alley neere Pick-hatch. At their first meeting in the walkes in Moorefields, upon the returne of the one from the leaguer in the Low-Countries, and the late comming to London of the other from the campe in the North, at the disbanding of the army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77631</idno>
+            <idno type="STC">Wing B4985</idno>
+            <idno type="STC">Thomason E238_5</idno>
+            <idno type="STC">ESTC R19724</idno>
+            <idno type="EEBO-CITATION">99860727</idno>
+            <idno type="PROQUEST">99860727</idno>
+            <idno type="VID">158224</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77631)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158224)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E238[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Brothers of the blade: answerable to the sisters of the scaberd. Or, A dialogue betweene two hot-spurres of the times, Serjeant Slice-man, alias Smell-smock of Coney-court in Chick-lane, and Corporall Dam-mee of Bell-alley neere Pick-hatch. At their first meeting in the walkes in Moorefields, upon the returne of the one from the leaguer in the Low-Countries, and the late comming to London of the other from the campe in the North, at the disbanding of the army.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bankes and Iohn Thomas,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title page woodcut.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158224:1" rendition="simple:additions"/>
+            <p>THE BROTHERS of the BLADE: Anſwerable to The Siſters of the <hi>Seaberd.</hi> OR, A Dialogue betweene two Hot-ſpurres of the Times, <hi>Serjeant</hi> SLICE-MAN, <hi>alias</hi> SMELL-SMOCK of <hi>Coney-Court</hi> in <hi>Chick-lane,</hi> and Corporall DAM-MEE of <hi>Bell-alley</hi> neere <hi>Pick-hatch.</hi> At their firſt meeting in the walkes in <hi>Moorefields,</hi> upon the Re<g ref="char:EOLhyphen"/>turne of the one from the Leaguer in the <hi>Low-Countries,</hi> and the late comming to <hi>London</hi> of the other from the Campe in the <hi>North,</hi> at the disbanding of the Army.</p>
+            <figure>
+               <figDesc>a man attempting to kiss a woman on a bed</figDesc>
+            </figure>
+            <p>Printed for <hi>Thomas Bankes</hi> and <hi>Iohn Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:158224:2"/>
+            <head>THE BROTHERS of the <hi>Blade.</hi>
+            </head>
+            <sp>
+               <speaker>Serjeant.</speaker>
+               <p>
+                  <hi>DAmmee Jack,</hi> my brave Bilbo, and Brother of the <hi>Blade,</hi> well met.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>What? Serjeant <hi>Sliceman,</hi> my <hi>quondam</hi> comrade, and old Smelſmock? By the blood of <hi>Bacchus,</hi> J joy to ſee thee, ſtab me, if your nimble ſervant corporall <hi>Nim,</hi> doth not earneſtly deſire to be incorpo<g ref="char:EOLhyphen"/>rated into your firme friendſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <p>By <hi>Styx</hi> and <hi>Acheron,</hi> I embrace thee in the armes of my love and affection. But J prithee, what newes from the North? For J ſuppoſe thou cameſt lately from thence.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Faith, very little newes there, and that ſcarce worth relating: but the neweſt novelty to me is at this time &amp; in this place here to ſee thee, I thought thou hadſt bin dead 7. yeares agoe, either by the bullet or gul<g ref="char:EOLhyphen"/>let, the lance or panch, the ſword or ſurfet, or by ſome ſuch diſaſter as the halter.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Thankes to my ſtarres, J have many a time eſcaped the former, and J muſt confeſſe ingenuoſly, I have deſerved the latter.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>I make no queſtion, but if thou hadſt thy deſert, thou hadſt been nooz'd many yeares agoe at <hi>Gregories</hi> Plumtree in Judge <hi>Richardſons</hi> dayes: I remember his Lordſhip was on the bench at that time of thy triall (as he was alwaies) pleaſantly diſpos'd, and would have jeer'd thee to the gallowes: but thou mayſt thanke that good man, firſt in giving thee not a choke-line (as he might) but the common <hi>Pſalme of mercy,</hi> and next in ſaying for thee, <hi>Legit, my Lord,</hi> when thou readſt no more a letter in the black booke, then J can now read <hi>Hebrew,</hi> and thats nere a whit:</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>J muſt acknowledge my ſelfe over oblig'd to his goodneſſe, ha<g ref="char:EOLhyphen"/>ving ſent to him the night before a good Angell, by the meanes whereof and favour of him J had the law in my owne hand: and now ſince thou art a chip of the old block, a bird of the ſame feather, and one &amp; the ſelf<g ref="char:EOLhyphen"/>ſame ſneelegall as both, give me thy wriſt, and let me ſhake thee by the hand, being the moſt remarkable place, where the Hangman hath long ſince mark'd us for ſheepe for his owne ſlaughter.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Nay, hold there, my man of warre and ſon of <hi>Mars:</hi> I muſt con<g ref="char:EOLhyphen"/>feſſe, thou and I have bin in times paſt as arrant Rogues as ever <hi>Newgate</hi> harbour'd, as daring in our attempts, &amp; as deſperate in our aſſaults, as the moſt reſolute Raſcall whatſoever under the cope; but for my part re<g ref="char:EOLhyphen"/>collecting
+<pb n="3" facs="tcp:158224:2"/>my ſelf of late, and conſidering the viciſſitude and revolution of the ſtates and conditions of men in theſe laſt dayes of the world, <hi>Ego non ſum ego, I am not the man I was,</hi> but am now reclaimed.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>The Divell thou art, 'tis impoſſible that <hi>Damme Iack</hi> the little <hi>Furio,</hi> &amp; only <hi>Orlando Furioſo</hi> of his age, ſhould be metamorphos'd fro<g ref="char:cmbAbbrStroke">̄</g> what he was, 'tis incredible, a paradox, and appeares to me very ſtrange.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Well, 'tis not ſo ſtrange as true, take it as you will. But what courſe doſt thou intend to take now thou art come over, at thy arrivall here.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Faith, if all ſtrings faile in the bow of my expectation, ile fall to my old trade, turne high-way <hi>Lawyer,</hi> or <hi>Padman.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Hang't, thats the way to be hanged indeed, to take a faire turne at the Triple-tre. Thou hadſt better turne Tapſter, or if (being a Gentle<g ref="char:EOLhyphen"/>man) thou ſcornſt to be ſubject to the imperious check and command of every ſordid mechanick, I would wiſh thee to haunt Bowling-allyes, and frequent Gaming-houſes, where you may live all day long upon the rooke on the <hi>Bankſide,</hi> or to play at Nine-pins, or Pigeon-holes in <hi>Lin<g ref="char:EOLhyphen"/>colaes-Inne</hi> fields; Theſe are ordinary exerciſes, and (in my opinion) farre better then your ſometimes walking in <hi>Weſtminſter</hi> Hall, from 7. of the clocke in the morning till 12. at noone in the Terme time.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>
+                  <hi>Jack,</hi> thou art not of my mind: thoſe were my golden dayes, for in thoſe Terme times I could with dexterity in a crowd dive into a poc<g ref="char:EOLhyphen"/>ket, and fetch up with the ſlight and activity of my hand, twenty or thir<g ref="char:EOLhyphen"/>ty Peeces at a time. Indeed that way of getting money was more peri<g ref="char:EOLhyphen"/>lous, but moſt profitable; and yet I lye, for according to the old ſaying, <hi>lightly come, lightly goe;</hi> ſo it far'd with me, what J pickt reſolutely on a Munday morning from Country clyents, was ſpent diſſolutely before Sunday evening, among the Siſters of the <hi>Scaberd.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Thou ſayſt true in that, for gaines ſo unjuſtly gotten, ſeldome or never proſper, when did you ever know a Cutpurſe or pickpocket grow rich? If at any time they get a booty, &amp; are taken in the act, the<g ref="char:cmbAbbrStroke">̄</g> their long durance and captivity in the Jayle in a ſhort time exhauſts them of all.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Troth, thats the reaſon we two are ſuch poore rogues as we are. I prithee <hi>Iack</hi> how ſtro<g ref="char:cmbAbbrStroke">̄</g>g art thou? What munition haſt thou about thee? The weathers extreame hot, and my wind-pipes are ſo dry and duſty, ha<g ref="char:EOLhyphen"/>ving travail'd lately many a long mile, and made many a ſhort meale, that I begin to faint, and would very faine repoſe my ſelfe with thee a while under the next Jvie-buſh; or let's entrench our ſelves within the limits of ſome red-Lattice, where wee may ſquench our thirſt, drench our guts,
+<pb n="4" facs="tcp:158224:3"/>drinke one anothers healths, and diſcourſe of all our travailes. Therefore ſpeake, what caſh or ſtore of coyne haſt thou?</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>By love not a deneere, not ſo much as a ſingle croſſe to bleſſe me with. I have not ſeene the Kings picture in ſilver of my owne, never ſince his Majeſty (heaven bleſſe him) went into <hi>Scotland.</hi> At his departure, (halfe a dozen joviall blades of us, each one with his female peece of iniquity, feeding high, and drinking deepe) all my money departed from mee.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Alas poore <hi>lack,</hi> I perceive thy penury now was long of thy pre<g ref="char:EOLhyphen"/>digality upon the laſſes then, but let that paſſe. For the preſent I greeve as much for thee as I doe for my ſelfe, for by the beames of <hi>Phoebus</hi> I am in the ſame poore praedicament, pennileſſe as thou art: And without ſwearing, or lying i'le tell thee the true cauſe of my preſent indigency. On the ſecond day of this moneth of <hi>Auguſt,</hi> comming out of the <hi>Boares-head</hi>-Taverne neare <hi>Fiſhſtreet,</hi> as J was making water in <hi>Doe-little-lane,</hi> a brace of mercileſſe ſhoulder-clappers with their griping-clawes ſeized upon my dody, diſarm'd me of my weapon (as <hi>Iewes</hi> piſſing) and forth<g ref="char:EOLhyphen"/>with drag'd me into the <hi>Paltry</hi> Counter.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>But (by your favour, Serjeant <hi>Sliceman,</hi> were there no <hi>Brothers of the Blade</hi> in your Company to ſlice thoſe ſhoulder-clapping ſlaves to ſippets, for making ſuch a dangerous aſſault and battery upon your body?</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>By <hi>Iuno,</hi> not one. All our <hi>Brothers of the Blade</hi> went forth at the fore-doore, and J with my <hi>madona</hi> Mrs. <hi>Luce Limetwigge</hi> came out at the back doore into the Lane, where thoſe Tenter-hookes kept centry.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Doe you know the varlets names, that I may know 'em to evade em leſt I be at any time invaded by 'em.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>The Yeoman, or younger inferior Rogue J am ignorant of, but the old curſed catchpole is ſufficiently knowne, an inveterate curre-dogge they call <hi>Tripes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>I have heard much of the Caterpiller: 'Tis reported hee's the archeſt Raſcall of the whole Tribe.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Hell take 'em all, and him eſpecially for me. But to be ſhort, 'tis but two dayes ſince I crept out of that hole, like a poore ſnake, all tot<g ref="char:EOLhyphen"/>tered and torne as you ſee; ſo that theſe 18. dayes have I lamentably ſung the Counter tenour, and am in farre worſe caſe now I am out, then when I firſt came in.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>But pray Serjeant <hi>Sliceman,</hi> let's know the cauſe of your firſt comming in, and you being ſo ſtay'd a man as you were.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Pox on't, the cauſe of my lying in there ſo long, was
+<pb n="5" facs="tcp:158224:3"/>long of the pocky whore <hi>Petronella Burnyard,</hi> that inſatiate ſiſter of our <hi>Scaband:</hi> This bold <hi>Bronſtrops</hi> then lay in, would have father'd her ba<g ref="char:EOLhyphen"/>ſtard upon me, and if I would have married her, I had bin the next day out.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Who? not ſhee that lookes a ſquint, and makes ſtrange faces when ſhe complements with a gentleman, ſhe that has an <hi>Amazo<g ref="char:EOLhyphen"/>nian</hi> Spirit, and is generally reputed the Metropolitan of all the <hi>Fructi<g ref="char:EOLhyphen"/>fers</hi> here about <hi>London?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>The ſame: Doe you know her that you ſo lively deſcribe her.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Yes faith, I have knowne her in my time, (I will not ſay carnally) and I well remember her, ſince the ſprings of her beautifull parts caught the Woodcocks of your affection, and the Sun-beames of her reciprocall affections did ſo reflect upon your abili<g ref="char:EOLhyphen"/>ties, that you melted in your own greaſe, till you were ſo baſted &amp; roſted, that every one that beheld you, tooke you for the two legg'd city Pigge.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Mum <hi>Jack</hi> mum, Rub not old ſoares, leſt I harpe upon the ſame ſtring, and touch you to the quick, you have forgot ſince the like Coca<g ref="char:EOLhyphen"/>trice of yours ſent you to the <hi>French</hi> Doctors, where you lay ſo long in <hi>Cornelius</hi> his tub to pickle, that at laſt the hungry <hi>Neopolitan</hi> ate away a part of your right tubified roſe.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>I ſmell your meaning (Serjeant <hi>Smell-ſmock</hi>) and know what mut<g ref="char:EOLhyphen"/>ton you beſt affect by your gaping. But to returne to your <hi>Lyndabrides:</hi> As you have many a time and often conney catcht her, ſo ſhe woo'd now in the concluſion conney, catch you.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>True, the old whore woo'd if ſhe coo'd.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>But how got you cleere off from her?</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>By the ſtrength of my owne <hi>Minerva:</hi> Indeed the old Juſtice laid the Law very ſhtowdly to me, which his worſhip as well under<g ref="char:EOLhyphen"/>ſtood, as a Country Major on the bench at an Aſſize. I thanke his wor<g ref="char:EOLhyphen"/>ſhip, he menac'd me that I ſhould lye a whole twelvemoneth by the heeles, or elſe allow the Tweake 5. pounds, then which ſumme he ſhould ſooner have had 5. of my teeth, toes or fingers. But ifaith, I am much oblig'd to <hi>Dapper</hi> the Juſt aſſes Clerke, for if he had not ſtood my cloſe friend, I had been ſtill cloſe enough to this houre.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Well, now thou haſt thy heeles at liberty, what courſe doſt thou intend to ſteere?</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Faith, even what the Fates pleaſe: And in my mind the old rode I have formerly trod is the moſt pleaſing.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>I but the end of that way will be death, an infamous death here, &amp; without we mend our manners by a ſeaſonable Repentance, Hell &amp; dam<g ref="char:EOLhyphen"/>nation hereafter. Then, when you are come to your journeyes end, you will be ſorc'd to ſing that dolefull ditty, <hi>Per varios caſus, per tot diſcri<g ref="char:EOLhyphen"/>mina rerum Tendeimus in Laqueum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Hang't, <hi>Finis</hi> and <hi>Funis</hi> are all one to mee. Hem, graſſe,
+<pb n="6" facs="tcp:158224:4"/>and hays (as my hoſt in the merry Devill of <hi>Edmonton</hi> ſayes) we are all mortall, and fince we muſt yeeld to nature, we know not the time when, nor the place where, for my part 'tis no matter the ma<g ref="char:cmbAbbrStroke">̄</g>ner how I dye. Still let me ſing with the Epicure, <hi>Ede, bibe, lude, poſt mortem nulla voluptas.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>I but there are intolerable torments to enſue an ill-lead-life: con<g ref="char:EOLhyphen"/>ſider of them to deterre thee from theſe lew'd wayes of wickedneſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>So I will, ſeaven yeares hence.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>But if you perſiſt, <hi>I</hi> feare you'l be cut off by the Sword of Iuſtice before one yeare goes about.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>If I be, Ile make thee my executor, and in the meane time, I pitty thy ignorance, then ſonne of ſimplicity, never endeavour to diſſwade me from which I am determin'd. 'Tis but labour in vaine, and therefore it is and ſhall be my reſolution.</p>
+               <lg>
+                  <l>Hang't, lets be joviall, revell whilſt wee can,</l>
+                  <l>What's coyne ordain'd for, but the life of man?</l>
+                  <l>Have I ſpent all my time in bloody warres?</l>
+                  <l>Beene carbonado'd, and all-hackt to ſcarres,</l>
+                  <l>Have I out-dar'd the Canons threatning death;</l>
+                  <l>Beene bullet-branded, gap't and gaſp't for breath,</l>
+                  <l>And others ſlept, have I watch't night by night,</l>
+                  <l>Diſcharg'd from ſleepe, each minute for to fight:</l>
+                  <l>Have I march't ore the hills, gone through the dirt,</l>
+                  <l>Without either hat, or band, or ſhooe, or ſhirt:</l>
+                  <l>And muſt I now be baſe; cringe, creepe, and trot,</l>
+                  <l>Beg, and entreat of every Peaſant ſot;</l>
+                  <l>No by this Martiall hand, I ſcorne it, I,</l>
+                  <l>That man's not ſit to live, that feares to dye:</l>
+                  <l>To beg is baſer then to pick a purſe,</l>
+                  <l>To cheate more baſe; of all thefts that is worſe:</l>
+                  <l>Nor beg, nor cheate will I, I ſcorne the ſame,</l>
+                  <l>But whil'ſt I live, maintaine a ſouldiers name,</l>
+                  <l>Ile purſe it I, the high-way is my hope,</l>
+                  <l>His heart's not great, that feares a little rope.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>I but that little rope will in the end be the breaking of your great heart; For my owne part, I am as poore a rogue as thou art, and would be as glad to take any courſe of life, ſo J might put my ſelfe into preſent money; but I doe not approve of the High-way Law. Let me ſee, what meanes had I beſt to uſe to get a little meanes, if it were but ſo much as
+<pb n="7" facs="tcp:158224:4"/>to keept life and ſoule together. I would I were in ſervice (as I have been before I went into the Northerne parts) with ſome <hi>Curtizan,</hi> my mind gives me, and my mind prompts me, I could ſerve her turne well for a gentleman Uſher, or at a ſhift upon occaſion to be Pimpe for her Ladi<g ref="char:EOLhyphen"/>ſhip, I muſt confeſſe 'tis baſe, but 'tis a ſafer way of the two, and better and greater men then I or you doe daily uſe it, well to morrow morning I'le about it, for as I am, 'tis impoſſible J ſhould long ſubſiſt, I have long enough ſerv'd under the colours of angry <hi>Mars,</hi> i'le now ſecure my ſelfe under the canopy of lovely <hi>Venus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Well ſaid <hi>Jack,</hi> ifaith: I commend thee forthy reſolution, pur<g ref="char:EOLhyphen"/>ſue it with endeavor, &amp; let thy fancy's beſt effects follow with diligence. But all this while we want (that I lately propounded) the blood of the Grape, or the juyce of Barley, to water our dry plants, to refreſh our dull ſences, and to revive our decayed and ſtupid Spirits? Reſolve, <hi>Iack,</hi> where ſhall's build a Sconce?</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>I woo'd I coo'd as eaſily effect it, as we both deſire it, yet now I thinke on't, if you'l perambulate with me towards <hi>Biſhopſ-gate</hi>-ſtreet; there's an Uncle of mine this weeke come to Towne, who has more wealth then wit, in one word, to ſpeake his Character, hee's a very gull, an eſſentiall Clowne, and ſimplicity in the Abſtract: His Fathers a meere Coridon, and lives in <hi>Eſſex,</hi> a rich Crummuchion of a vaſt eſtate, which this Calfe and Cockaloach his ſonne makes ſhift to conſume as faſt as the old foole ſcrapes. The young novice is ſo taken with the name of a Gentleman, that he will have it, though he buyes it, and it coſt him dearely: He uſually comes up to <hi>London</hi> every Terme to learne to take Tobacco, and now hee's come this weeke to ſee new motions and Pup<g ref="char:EOLhyphen"/>pit-playes in <hi>Bartholemew</hi> Fayre. He is in his Kingdome, when hee can but get into company, where (when he hath a cup in's pate) 'tis his pride and the hight of his ambition to pay whole reckonings, though he be ſuf<g ref="char:EOLhyphen"/>ficiently laught at for his courteſie. This wiſeacres will we fend for to the <hi>mouth</hi> Taverne, where before wee part from him, wee'le make a meere mouth of him.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>I like the motion well, and the proſecution thereof better, but I thinke it beſt of all to catch this Gudgeon (for our own profit) at a more convenient time the next weeke then in the Fayre time, we ſhall have the ſairer opportunity to works upon him; in the interim, let me in<g ref="char:EOLhyphen"/>treate thee to walke along with me (whether I was intended before I mer thee) to ſee our old acquaintance <hi>Tom Stitch</hi> the Taylor.</p>
+            </sp>
+            <pb n="8" facs="tcp:158224:5"/>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Why, Dus Mr. <hi>True-ſnip</hi> live ſtill in <hi>London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>J was enform'd yeſterday by <hi>Mat-Mulligrub</hi> the <hi>Vintner,</hi> and <hi>Dick Double-ſoule</hi> the <hi>Shoomaker,</hi> that he inhabits in a houſe of his own in <hi>Cloth-ſaire.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Dus the Buttock his wife beare up ſtill as ſhe did?</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>They ſay, ſhee's as blyth and buxome, as witty and wanton, and as plumpe and impudent as ever ſhe was. Fame is falſe, if you have not bin very inward with her.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Indeed, I muſt confeſſe we have been often and familiarly in action together. The time was when I ſtruck fire in her tynder-boxe, and it has tooke; but it was in her former husbands dayes; yet J beleeve ſhee's never a whit alter'd, but is the ſame in diſpoſition, as ſhe vſ'd to be: I am conſirm'd in this opinion, <hi>ſemel &amp; femper,</hi> once a whore, and alwaies the ſame, J would either of us were Maſter of a quart of Canary, to beſtow upon her, at our firſt viſit of her. Shee'le take us for a couple of poore Rogues to come both to her houſe without a ſti<g ref="char:EOLhyphen"/>ver in our pockets. Prithee Serjeant <hi>Smell-ſmock,</hi> haſt any thing about thee to dip in <hi>Barbican</hi> or in <hi>Long-lane</hi> as we goe along.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Let not that trouble thee; for I doubt not but before we come to <hi>Rodcroſſe</hi>-ſtreet we ſhall meet with ſome or other, whom formerly I have knowne, of whom I will boldly take acquaintance, and (taking him or her a ſide, be it Brother of the Blade, or ſiſter of the <hi>Scabard</hi>) take occaſion to borrow a ſhilling, or 6. d. till Doomeſ-day.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>J woo'd I coo'd ſee it, quoth blind <hi>Hugh,</hi> and ſo ſay I.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Never feare it; beſides (as I underſtand) <hi>Snips</hi> wife has two or three tubs of Ale continually in her houſe, which ſhe drawes in blacke Rammallian pots for her friends and acquaintance that viſit her, (a prit<g ref="char:EOLhyphen"/>ty policy to firke out money of her cuſtomers) though ſhe pretends it is to keepe her husband at home from flying from his ſhop-board, and hunting after Ale-houſes.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Nay, then lets goe, and by the way (now it comes into my mind) ile call upon <hi>Tim Trebble-gaine</hi> the Broker, whom vveele take along vvith us living in <hi>Long-lane,</hi> and as he once gull'd me, ſo i'le try if with all my vvits J can fetch over him.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Godamercy for that <hi>Iack;</hi> hovvſoever if all our plots faile, and nothing take effect, weel'e make the Broker drunke, and then leave him for the reckoning.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>Agreed. He has had many a pavvne of thee, and now thou ſhalt pavvne him.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
